@@ -1,0 +1,684 @@
+2/19/14
+RHISE Vol. 2 - Albini et al., Material for the investigation of the seismicity of the Ionian Islands between 1704 and 1766
+emidius.mi.ingv.it/RHISE/ii_2alb/ii_2alb.html
+1/13
+EC project "Review of Historical Seismicity in Europe" (RHISE) 1989­1993
+[Deliverables and queries]
+ 
+[Presentation]
+ 
+[Homepage]
+Paola Albini*, Nicholas N. Ambraseys** 
+and Giancarlo Monachesi***
+*
+ Istituto di Ricerca sul Rischio Sismico, CNR, via 
+Ampère 56, 20131 Milano, Italy.
+** Department of Civil Engineering, Imperial College of Science 
+and Technology,London SW7 2BU,
+United Kingdom.
+*** Osservatorio Geofisico Sperimentale, viale Indipendenza 180, 62100 Macerata, 
+Italy.
+Material for the investigation of the seismicity
+of the Ionian Islands between 1704 and 1766
+Introduction
+Sources of information
+Case histories
+Discussion
+Acknowledgements
+References
+Introduction
+ 
+The purpose of this paper is to provide data for the investigation of the seismicity of the Ionian Islands
+during the period 1704 to 1766. While no catalogue of earthquakes can hope to be exhaustive in retrieving
+all sources for a particular event, the new information presented here should afford to the reader an account
+that is as complete as possible both in general outline and in essential details.
+ 
+The data here provided have been gathered during the CEC project "Review of Historical Seismicity in
+Europe"; other results of the research on the Ionian Sea area have already been published, and mostly
+concern the earthquakes of 1767 (Albini and Daltri, 1991; Albini, 1991; Kouskouna et al., 1993) and of
+1769 (Tsiknakis et al., 1992; Kouskouna et al., 1993).
+ 
+The earthquake of February 20th, 1743, has not been considered by this research, because it has been
+already investigated by previous studies (Margottini, 1985; ENEL, 1986; Guidoboni et al, 1989).
+Sources of information
+ 
+There are a number of earthquake catalogues either for Greece exclusively (e.g. Papazachos and
+Papazachos, 1989), or which include data for the Ionian Islands (e.g. Shebalin et al., 1974). All are to some
+extent deficient in that they do not always quote their source of information. To retrieve data already
+available in seismological literature, a supplement of research was devoted to a systematic reading of some
+of the most significant seismological compilations of the 19th century for this area, such as for instance
+Barbiani (1863), Schmidt (1875), Issel e Agamennone (1893).
+ 
+In order to provide a context within which can be understood the macroseismic information which
+constitute the raw data of our research, it is necessary to give a brief outline of the historical development of
+2/19/14
+RHISE Vol. 2 - Albini et al., Material for the investigation of the seismicity of the Ionian Islands between 1704 and 1766
+emidius.mi.ingv.it/RHISE/ii_2alb/ii_2alb.html
+2/13
+our study­area during the first half of the 18th century. 
+During the first half of the 18th century the Ionian Islands were part of the Republic of Venice, having
+entered the dominion in different periods (Lunzi, 1858; Dudan, 1938; Viggiano, 1993). The last was
+Lefkas (Santa Maura): conquered by Morosini in 1684, it was abandoned by the Venetians in 1715, during
+the last Venetian­Turkish war, and was Venetian again from 1718 to 1797, when the Republic of Venice
+fell. The continental areas east of the Ionian Islands (Epirus, Acarnania, and Morea) were under the
+dominion of the Ottoman Empire, with the exception of Morea between 1686 and 1718, when it was part
+of the Republic of Venice. 
+Fig. 1 shows some of the most important settlements of the area in that period, which were the centres from
+where information on the area was supplied to the central governments by peripheral officers. Venetian
+central magistracies sent governors to administrate the major islands (Corfu, Lefkas, Kefalinia, Zante), the
+minor ones (Paxos and Ithaca) as well as the forts on the mainland (Butrinto, Parga, Préveza, Vonitsa),
+while consuls were appointed especially to localities strategically located on the east coast of the Adriatic
+Sea ­ Scutari (Shkodër), Durazzo (Durrës), Arta, Lepanto (Nafpaktos) and Patras. The localities evidenced
+inside the Ottoman territory ­ Delvine, Yanya (Iannina), Tirhala (Trikala), Inebati (Nafpaktos), and Mizistre
+(Mistras) ­ were the seats of the 
+sanak
+ (Turkish governors) during the 18th century.
+Fig. 1  Centres of information and distribution of observers 
+for the studied area
+in the 18th century.
+Tab. 1 shows the Venetian documentary sources of information, today available at the State Archives of
+Venice, and specifically those concerning the Ionian Islands.
+2/19/14
+RHISE Vol. 2 - Albini et al., Material for the investigation of the seismicity of the Ionian Islands between 1704 and 1766
+emidius.mi.ingv.it/RHISE/ii_2alb/ii_2alb.html
+3/13
+Tab. 1 ­ Venetian documents on the Ionian Islands in the 
+18th century.
+Details are given on the timespan of the documents and the performed sampling with reference to the case
+histories discussed below therefore, documents on the 1743 earthuake are not shown. Funds and series
+with a good temporal continuity of surviving documents are 
+Dispacci
+ (dispatches), 
+Provveditore
+ 
+Generale
+da
+ 
+Mar
+ and 
+Decreti
+ (resolutions) of the 
+Senato
+. Gaps are more considerable in those series  
+Dispacci
+,
+Rettori
+ and 
+Relazioni
+  collecting documents produced from governors of one island (e.g. 
+Provveditore
+Estraordinario
+ of efkas) or area (
+Provveditore Generale delle Armi
+ in Morea). Such gaps can mainly be
+attributed to changes in the administration, as in the case of efkas (17151718) and Morea (from 1718 on)
+or dispersion of the documents at the end of a governors charge  for instance some personal archives are
+today kept at the Civico Museo Correr in enice (see also Daltri e Albini, 1991). he holdings of the
+Ionian Islands archives, which possess a scarce number of files for the period of interest (Gue, 1970),
+cannot fill in those gaps. 
+Results of the investigation of the fund 
+Cinque Savi alla Mercanzia
+ were presented in the previous volume
+(Albini, 1993).
+ 
+Discussing the case histories, reference will be made to the data shown in ab. 1 when the lack of
+information on earthuake effects from an island could depend on the fact that no enetian documents
+were available for that island at the time the earthuake occurred. Some of this information  especially that
+concerning the 1767 and 1769 earthuakes  has been published recently by Daltri e Albini (1991), Albini
+and Daltri (1991), Albini (1993), ouskouna et al. (1993).
+ 
+ur main sources, therefore, are local, firsthand observations derived from Greek marginal notes, diaries
+and local histories, from contemporary enetian documents, and from coeval reports in the uropean press
+2/19/14
+RHISE Vol. 2 - Albini et al., Material for the investigation of the seismicity of the Ionian Islands between 1704 and 1766
+emidius.mi.ingv.it/RHISE/ii_2alb/ii_2alb.html
+4/13
+and accounts of travellers. In spite of the proximity of the Ionian Islands to mainland Greece, very little has
+been found so far about earthquakes in published or unpublished Ottoman documents (Ambraseys and
+Finkel, 1993).
+Case histories 
+In what follows we present the case histories of the events reappraised in this study. All the earthquakes
+discussed are documented as fully as possible on the basis of primary sources. Inevitably, however, there
+are cases where the references are omitted when they add no relevant details or give inaccurate or second
+hand information. 
+As many as possible of the sources that have been found to contain information are referred to in the course
+of these various accounts when they contribute value or original material to the seismological aspect of the
+paper. Any useful historiographic statements they contain, which may not have been referred to, on
+examination may easily be seen in perspective by the reader himself.
+ 
+The date of the earthquakes is given both in Old Style (between parentheses) and in New Style.
+1704 November (11) 22
+ 
+This earthquake happened at 8 p.m. on Saturday 11 November 1704 (O.S.) and caused considerable
+damage in the north part of the island of Lefkas (Fig. 2).
+ 
+A contemporary account written in Lefkas (VVA, cod. 128) says that: 
+"On 11 November 1704 
+[O.S.]
+, Saturday night, which was the day of St. Minas, at one hour and a half of
+the night, there happened a terrifying earthquake in which all stone masonry houses in Amaxiki and a few
+made of bricks as well as the churches collapsed; only the church of St. Athanasius, which was made of
+timber, survived. Also, at Kastro a few houses collapsed and the rest were damaged; 13 people were killed
+at Amaxiki and 3 at Kastro and others were injured; similarly many houses collapsed in Fryni, and the
+earthquake was terrifying throughout the island of Lefkas, where a few monasteries and many houses in
+the villages collapsed and in 
+[the church of] 
+Sta Anastasia at Tsukalades, Athanasoula the wife of Michu
+Sofrona was killed; also the cells and bishopric and 
+[the church of] 
+Panagia in Gyra fell; in particular, a
+house at Dragano sunk all into the ground so that only a few stones could be seen; and great destruction
+was wrought to the island of Sta Maura 
+[Lefkas]
+; and after this earthquake there were many others for
+many days; and no one had experienced in the past such a destruction; there fell arcades and hazinades,
+and similarly at Peratia many houses collapsed; and the earthquake was felt in Arta, but it was not as
+strong as here, and at Korfus 
+[Corfu] 
+and Cefalinia where it was not so strong"
+. 
+2/19/14
+RHISE Vol. 2 - Albini et al., Material for the investigation of the seismicity of the Ionian Islands between 1704 and 1766
+emidius.mi.ingv.it/RHISE/ii_2alb/ii_2alb.html
+5/13
+Fig. 2 ­ Distribution of the effects of the earthquake of 
+22 November 1704.
+he 
+Provveditore
+ 
+Generale da Mar
+ in his dispatch of December 6 from Corfu (ASe, 1704a) confirms
+that in efkas the earthuake occurred at about one and a half hour of the night on Saturday, 22 November.
+he shock damaged the Castle, where four people died, as well as the region of Amaiki where 30 people
+lost their lives. In the Castle the house of the army commander collapsed and many houses inside and
+outside the walls, built of stone masonry, were seriously damaged. he church of Santa Maura was also
+ruined (ladis, 1902). he walls of the Castle were also damaged, the earthuake adding ten new cracks to
+the eleven already eisting. Also the small fortress of rapano, which guarded the narrows between the
+island and the mainland, was damaged beyond repair and an engineer was sent from enice to rebuild it
+(ASe, 1704b). Following the earthuake financial assistance and materials for the repair and
+reconstruction were provided by enice (ASe, 1705a, b).
+ 
+Damage did not etend very far it was concentrated on the north part of the island and on the opposite
+coast of the Greek mainland (A, cod. 128). he earthuake was perceptible in Corfu (Partsch, 1887)
+where it did not cause great concern (ASe, 1704a). Dispatches of that period of the enetian governors
+of ante and efalinia to the magistracy of the 
+Cinque Savi alla Mercanzia
+ do not mention the earthuake
+(ASe, 16931722 ASe, 17001746). Aftershocks continued to be felt well into January 1705 (ASe,
+1704a Gaceta de Madrid, 1705 aglivi, 1710).
+1710 May 17
+ 
+From a marginal note, uoted by arbiani (1863), we learn that ust after midnight on 17 May 1710 (N.S.)
+a very strong earthuake in ante caused the collapse of many buildings and the loss of two lives. here is
+no evidence that the shock was felt elsewhere or that it caused undue concern to the enetian authorities.
+he 
+Provveditore
+ 
+Generale da Mar
+, who normally lived in Corfu, was at that time in Morea, as it can be
+deduced from his dispatches. e was in ante at least on July 25, when he sent to the 
+Senato
+ three
+dispatches (ASe, 1710). For this period, no dispatches of the 
+Provveditore
+ of ante are available (ab. 1),
+and this earthuake is not mentioned in the letters of the same 
+Provveditore
+ to the 
+Cinque Savi alla
+Mercanzia
+ (ASe, 17001746).
+1714 (August 28) September 8
+ 
+A damaging earthuake in efalinia is mentioned in a 18th century history of pirus (Michael, III) it
+says that after the earthuake in Patras of 27 July (.S.)
+ 
+"... on 28 August 
+.S.
+, another more dreadful earthquake occurred in Kefalinia, where the Venetian
+admiral was at anchor with his fleet: the earth opened, hot water flowed out; 280 houses were destroyed,
+water issued from the earth, and the inhabitants lived two months in the gardens".
+ 
+So far we could find no mention of this event in the contemporary dispatches we have eamined
+originating from the Ionian Islands and addressed to the enetian authorities (Daltri e Albini, 1991) the
+Provveditore
+ 
+Generale da Mar
+ Agostino Sagredo stayed for some time in Morea and was back in Corfu on
+20 August (ASe, 1714a). e was substituted by Daniele Dolfin, who visited efalinia early in ctober
+(ASe, 1714b). In that period the attention of the enetian governors was attracted by the war with the
+ttoman mpire for the control of Morea. here is no mention of this earthuake (ab. 1) in the dispatches
+and letters of the 
+Provveditore
+ of efalinia and of the consul in Patras to the 
+Cinque Savi alla Mercanzia
+(ASe, 16931722 ASe, 17121764).
+ 
+he earthuake was reported in the uropean press where the events in Patras and efalinia are
+amalgamated into one shock and dated at 3 September 1714 (N.S.) (heatrum uropaeum, 1714). his
+erroneous information is repeated by other contemporary sources (Amato, 1715).
+1722 (May 25) June 5
+ 
+A damaging earthuake in the southwest part of the island of efkas. A Greek marginal note written in
+2/19/14
+RHISE Vol. 2 - Albini et al., Material for the investigation of the seismicity of the Ionian Islands between 1704 and 1766
+emidius.mi.ingv.it/RHISE/ii_2alb/ii_2alb.html
+6/13
+Amaxiki says that 
+... towards dawn on hursday 22 May 1722, there were two conseuitive earthuakes, and many houses
+fell in the villages of efkas, particularly Athani, Diamiliani, Aipetro 
+[Agios Petros]
+ which suffered great
+losses, but here at Amaiki the shocks were less severe, and there followed many other weaker shocks for
+many days
+ (Sathas, 1867). 
+The date of the event is probably an error as 22 May 1722 O.S. fell on a Tuesday.
+ 
+This earthquake is not mentioned by the contemporary dispatches of the 
+Provveditore
+ 
+Generale da Mar
+,
+Andrea Corner (ASVe, 1722), and no dispatches from the 
+Provveditore
+ 
+straordinario
+ in Lefkas are
+available for this year at the State Archives of Venice (Tab. 1).
+ 
+A later report (25 February 1723) by the 
+Provveditore
+ in Lefkas, P.A. Manio, is reported by Machairas
+(1951); it confirms this information adding that the Castle of Santa Maura also suffered some damage but
+dates the event on 25 May 1722 (N.S.) which was a Thursday. 
+1723 February 9 (20)
+ 
+This was a large earthquake in the Ionian Islands that caused serious damage in north Kefalinia.
+ 
+A contemporary note, after describing the effects of the aftershocks of 11 February (O.S.) in Lefkas, adds
+that 
+similarly there was an awful earthuake in ante where a few houses collapsed and many were cracked,
+and also in efalinia it was terrible there, at risos, as well as in Paliki many houses collapsed and some
+people were killed and very many were inured also at iuri and Argostoli the shock caused great losses
+as we were told, and the earthuake which caused these losses was the one that occurred on the 9th of
+February which was great in these parts and which, had it occurred here 
+[in Lefkas]
+ it would have left
+nothing standing and it was the same earthuake that was felt in the Morea, and was perceptible in
+orfus and Arta and in all neighbouring regions...
+ (Sathas, 1867).
+ 
+An eyewitness in Amaxiki notes that 
+on 9 February 1723 
+[O.S.],
+ at night, drawing towards dawn of Saturday, there was a freightful
+earthuake which lasted a long time and shook all the houses but fortunately no one fell, but it caused
+great panic ... the earthuake was followed by many smaller shocks ...
+ (Sathas, 1867). 
+The 9th of February 1723 (O.S.) was a Saturday.
+ 
+Venetian sources are almost silent about the effect of this earthquake. They date it at February 8 and they
+attribute to it the damage sustained by the church of San Demetrio in Zante (ASVe, 1723a; 1724a, b, c;
+1743). 
+We could find no mention of damage in Kefalinia.
+ 
+A later source (Barbiani, 1863), which bases its information on local tradition, puts the earthquake at 7, on
+the night of 8 February. A discrepancy of one day is common when it is not known whether night in the
+source is reckoned from sundown or from midday. 
+1723 February (11) 22
+ 
+This was probably a strong aftershock of the earthquake of 9 February with an epicentre closer to Santa
+Maura where the shock caused widespread damage.
+ 
+Our basic source of information for this earthquake is a Greek note which says that 
+on the 9th hour of the night of 11 February 1723 
+[O.S.],
+ near dawn, on Monday, there was a great
+earthuake which destroyed many houses 
+[in Lefkas];
+ it caused the collapse of the womens uarter of the
+church of vangelistria, cracked in many places the church of St. Mina and the bell tower of St. Paraskevi
+... and of the houses many fell and other were damaged. And there was considerable damage done at
+Amaiki and there followed other smaller shocks that continued day and night
+ (Sathas, 1867). 
+The Latin church of Pantokrator in the castle of Santa Maura collapsed, and according to an inscription, it
+was rebuilt in 1733 (Machairas, 1951). 
+Venetian sources are not explicit about the damage caused by this aftershock, and the documents that refer
+2/19/14
+RHISE Vol. 2 - Albini et al., Material for the investigation of the seismicity of the Ionian Islands between 1704 and 1766
+emidius.mi.ingv.it/RHISE/ii_2alb/ii_2alb.html
+7/13
+to the results of the damage survey carried out by the Venetian authorities after the earthquakes are missing
+from the archives (ASVe, 1723b, c). The main concern of the authorities was the safety of the castle of
+Santa Maura, the palace, stores and houses in the fort.
+1729 (June 27) July 8
+ 
+This was a damaging earthquake in Zante, the effects of which are described in two contemporary
+documents. 
+The first, a codex from Volimes says that in the second hour of the day, on Friday 27 June 1729 (O.S.)
+there was a violent earthquake which lasted for 30 minutes and triggered rockfalls from mountains which
+fell into the sea. About the same time fire fell from the sky on Skinari, Salines and Sotiro (Barbiani, 1863).
+The second document from Zante adds that many houses collapsed in the town and in villages which are
+not named; the towers at Ammouderi, outside the town, also fell (Barbiani, 1863).
+ 
+More details about the effects of the earthquake in the town are supplied by a dispatch of the Venetian
+Provveditore Generale da Mar
+, Marco Antonio Dolfin, written shortly after the earthquake. He says that 
+"On Friday morning 27 
+[of June] 
+O.S. that is 8 July N.S., at a quarter past 10 a terrible earthquake shook
+this island, which lasted for two Miserere ... All public and private buildings partly collapsed or they were
+partly shattered. The old, strong walls of the Castle opened up in places and many of its towers collapsed
+... The walls of the storehouses for the gunpowder and military equipment, of the barracks, of the Admiral's
+depot, and of the prison were cracked ... The front wall of my house was destroyed ... Also a few small
+houses inside the Castle and in the town collapsed, and not more than 10 houses were left with their walls
+intact. I have no news from the villages, where damage seems to be less serious than in the Castle and
+town, where only one person was killed ..." 
+(ASVe, 1729a). 
+Other dispatches (ASVe, 1729c, d, e) and Dolfin's final report to the 
+Senato
+ (ASVe, 1730) add nothing
+substantial about the effects of the earthquake in other parts of the island or elsewhere. The shock was also
+probably felt in Kefalinia (Tsitselis, 1904).
+ 
+Strong shocks continued to be felt for eight days (Barbiani, 1863) and aftershocks did not stop until early
+September (ASVe, 1729b).
+1741 June 23
+ 
+On 23 June 1741 (N.S.) an earthquake affected the Ionian Islands. In the southwest part of the island of
+Kefalinia all the houses, particularly those in the districts of Lixuri, Argostoli and Borgo (Castro, now
+Agios Georgios) were shattered. The parish church of Lixuri was totally destroyed as well as a number of
+public buildings. In the fort of Assos many dwellings collapsed and the rest of the buildings were ruined,
+apparently without loss of lives (ASVat, 1743a). 
+Venetian documents do not supply the date and they shortly describe the damage in Argostoli and to the
+Fortress in Assos (ASVe, 1741b).
+ 
+There is no evidence that the earthquake was felt elsewhere. It was followed by aftershocks that continued
+intermittently for five months (ASVe, 1741a), causing great concern and additional damage in the western
+part of Kefalinia (ASVat, 1743a).
+1742 February (14) 25
+ 
+A damaging earthquake, in the Ionian Islands, at Zante. The shock occurred: about midnight, on Sunday of
+the Prodigal Son, 13 to 14 February 1742 (O.S.), according to the wording of a document of the family
+Kattevati of Zante reported by Barbiani (1863); or in the night of 24, about the seven hours, according to
+Venetian sources (ASVe, 1742b).
+ 
+In the town of Zante a number of houses collapsed as well as the bell­towers of the churches of St.
+Nicholas and of the Redeemer, killing a number of people (Barbiani, 1863). The cathedral of San Marco
+had recently been rebuilt because it was in bad condition (ASVe, 1740; 1741a): it was damaged as well as
+some other public buildings (ASVe, 1742b). A detailed survey of the damage carried out by the Venetian
+2/19/14
+RHISE Vol. 2 - Albini et al., Material for the investigation of the seismicity of the Ionian Islands between 1704 and 1766
+emidius.mi.ingv.it/RHISE/ii_2alb/ii_2alb.html
+8/13
+authorities after the earthquake (ASVe 1742b, c, d, e) suggests that damage to the town was apparently so
+severe that the 
+Provveditore
+ 
+Generale da Mar
+, who normally lived in Corfu, went to Zante and stayed
+there for two months (ASVe, 1742f, g, h), to take care of the repairs to the Cathedral and the Palace and
+that a senatorial resolution was passed to relieve Zante by remitting half of its tribute on raisin crops for a
+year (ASVe, 1742i).
+ 
+Damage extended to villages in the island where a number of houses collapsed (ACCM, 1742; Barbiani,
+1863) but details in local and Venetian documents of the effects of this earthquake outside the town of
+Zante are lacking. 
+The total number of people killed is variously estimated between 22 and 120 (Mercati, 1811; Chiotis, 1849;
+Chiotis, 1863; Zois, 1893). There is no evidence that the damaging effects of this earthquake extended
+beyond the island of Zante. 
+The shock was strongly felt in Kefalinia (AGP, 1628­1807; ASVat, 1743b) and it was perceptible in Corfu
+(ASVe, 1742d). The earthquake is not mentioned in contemporary dispatches of the Venetian consuls in
+Arta and Patras (ASVe, 1728­1794; ASVe, 1712­1764).
+1759 June (2) 13
+ 
+This was a series of damaging earthquakes in the western part of Kefalinia (Fig. 3). 
+Fig. 3  ffects of the earthuakes of June 1759.
+According to a local contemporary note 
+earthuakes began 
+[in Kefalinia] 
+on the 2nd of June 
+[1759 O.S.] 
+and continued until the 5th the one
+which happened at noon destroyed many houses and the other on the 3rd caused the collapse of most
+houses in the villages and in the town ...
+ (Tsitselis, 1904).
+ 
+A dispatch from the Venetian authorities in Kefalinia says that 
+in the night between June 13 and 14 
+[N.S.]
+, at about si hours, there was a violent earthuake which was
+followed by a series of weaker shocks ... he following morning, at 16 hours, there occurred a much
+stronger shock ... that produced great ruin ...
+ (ASVe, 1759a).
+ 
+The damage caused by the two shocks was concentrated in the district of Paliki and at Lixuri (ASVe,
+1759b) where most of the houses, windmills and churches collapsed and a few lives were lost. 
+In Argostoli the shock was strongly felt but caused no damage. The serious situation of the country villages
+is stressed by the 
+Provveditore
+ 
+Generale da Mar
+, Francesco Grimani, in his 12 September dispatch (ASVe,
+2/19/14
+RHISE Vol. 2 - Albini et al., Material for the investigation of the seismicity of the Ionian Islands between 1704 and 1766
+emidius.mi.ingv.it/RHISE/ii_2alb/ii_2alb.html
+9/13
+1759c). 
+The main shock was felt strongly in Zante (AGP, 1628­1807). There is no evidence that the earthquake
+was felt at Arta and Patras (ASVe, 1728­1794; ASVe, 1712­1764). Strong aftershocks continued to be felt
+in Kefalinia until 5 June (Tsitselis, 1904). 
+1766 July (11) 22
+ 
+A destructive earthquake in Kefalinia. Preceded by a foreshock before dawn, the main shock occurred one
+hour after sunrise on 11 July 1766 (O.S.) lasting, with intermissions, three minutes. The earthquake was
+followed by three other shocks during the same day.
+ 
+The western part of Kefalinia suffered most. A manuscript note from Michalitzata (Vergotis, 1867) says
+that most of the houses in the district of Paliki were destroyed and those left standing were damaged. It
+adds, however, that 52 days earlier (20 May 1766 O.S.) the south part of Paliki had suffered from a
+whirlwind of unprecedented violence which did great damage. Contemporary reports (ASVe, 1766a, b, c)
+confirm that the damage caused by high winds, which persisted for 13 minutes, was enormous. The
+combined damage caused by the earthquake and the wind was such that many families left Paliki and
+settled in the Morea (Peloponnese). The seriousness of the situation in Kefalinia is testified by a petition to
+the 
+Collegio
+ produced by Niccolò Salomon, tax­farmer of that island (ASVe, 1766g): the 
+Collegio
+recognized the right of his query and asked to the 
+Senato
+ to approve the diminution of his debt for the year
+1766.
+ 
+Earthquake damage extended to Assos (ASVe, 1766e, f), Lixuri (ASVe, 1766b) and Argostoli where
+among other buildings the Latin church of San Nicolò in Argostoli (ASVe, 1766d) and a number of manor
+houses were ruined (Fig. 4). In all about 20 people were killed in the island. 
+The earthquake was also experienced in Zante: a European traveller who happened to be in quarantine
+describes the shocks as very strong but he does not mention any damage done in the town (Chandler,
+1776). There is some evidence, however, that the earthquake did cause the collapse of a few houses in
+other parts of Zante (Tsitselis, 1904).
+ 
+It is said that the shock was also felt in Ithaca (Vergotis, 1867).
+Aftershocks continued more or less for 2 months (Gazette de France, 1766; ASVe, 1766b). 
+Some modern writers date this event to 11 May, 11 June and others place it on 24 July (N.S.), which is the
+date given by the European press (Gazette de France, 1766). 
+Fig. 4 ­ Localities damaged by the whirlwind of 31 May [square]
+and by the earthquake of 22 July 1766 [circle].
+2/19/14
+RHISE Vol. 2 - Albini et al., Material for the investigation of the seismicity of the Ionian Islands between 1704 and 1766
+emidius.mi.ingv.it/RHISE/ii_2alb/ii_2alb.html
+10/13
+Discussion
+ 
+From the foregoing we conclude that in spite of the large volume of information retrieved for earthuakes
+in this part of the Mediterrranean area, information remains insufficient for the assessment of the seismic
+potential of the region. Greek sources rarely mention the effects of earthuakes which originate in the
+Ionian Islands on mainland Greece unless they are destructive in populous centres which, in this part of the
+country, are very few. ven more limited in farfield information are enetian sources which very seldom
+mention an earthuake unless it caused damage to the few forts and supply bases of the Republic in the
+region. his lack of information from localities situated some distance away from the Ionian Islands makes
+it difficult to uantify historical earthuakes in the region.
+Acknowledgements
+ 
+Part of the enetian documents here considered (in particular on the earthuakes of 1704, 1710, 1714,
+1723, 1729, 1742, 1759 and 1766) were retrieved in the framework of a research carried out at the State
+Archives of enice by dott. A. Daltri, to whom authors epress their thanks. he research is fully reported
+in Daltri e Albini (1991).
+ 
+Authors would like to thank Jean ogt, for his constant supply of new information.
+References
+ 
+ACCM (Archives de la Chambre de Commerce, Marseille), 1742. J. 520, 19 April.
+AGP (Archives de la Guerre, Paris), 1628­1807. Archives Historiques.
+Albini, P. and Daltri, A., 1991. The Serenissima Republic of Venice and the Earthquakes. In: J. Kozak
+(Editor), Proc. 3rd ESC Workshop on "Historical Earthquakes in Europe", Liblice by Prague, 4­6 April
+1990, pp. 98­114.
+Albini, P., 1991. Datazione e prima stima degli effetti dei terremoti nelle Isole Ionie nell'anno 1767 da
+documenti veneziani. In: P. Albini e M.S. Barbano (Editors), GNDT, Atti del Convegno, Pisa, 25­27
+giugno 1990, Macrosismica, 2, pp. 111­124.
+Albini, P., 1993. Investigation of 17th and 18th centuries earthquakes in the documents of governors and
+representatives of the Republic of Venice. In: M. Stucchi (Editor), Materials of the CEC project "Review of
+Historical Seismicity in Europe", Milano, 1, pp. 55­74.
+Amato, E. d', 1715. Lettere di eruditi della Chiesa. Genova.
+Ambraseys, N. and Finkel, C., 1993. Material for the Investigation of the Seismicity of the Eastern
+Mediterranean Region during the period 1690­1710. In: M. Stucchi (Editor), Materials of the CEC project
+"Review of Historical Seismicity in Europe",Milano, 1, pp. 173­194.
+ASVat, 1743a, b. Sacra Congregatio Concilii, Relationes, b. 891, Cefalonia: a) cc. 248­258; b) c. 263.
+ASVe (Archivio di Stato di Venezia), 1693­1722. Cinque Savi alla Mercanzia, Lettere, Rettori, Cefalonia,
+b. 561.
+ASVe, 1700­1746. Cinque Savi alla Mercanzia, Lettere, Rettori, Zante, b. 569.
+ASVe, 1704a, b. Senato, Dispacci, Provveditori da Terra e da Mar, Provveditori Generali da Mar, f. 951
+(luglio 1702­luglio 1705): a) Dispaccio n. 85, Provveditore Generale da Mar, Corfù, 6 dicembre; b)
+Disegno del fortino di Trapano [dicembre 1704].
+ASVe, 1705a, b. Senato, Decreti, Rettori, f. 145 (settembre 1704­febbraio 1705): a) Decreto al
+Provveditore Generale da Mar, Venezia, 17 gennaio; b) Decreto al Provveditore Estraordinario di Santa
+Maura, Venezia, 22 gennaio.
+ASVe, 1710. Senato, Dispacci, Provveditori da Terra e da Mar, Provveditori Generali da Mar, f. 955
+(luglio 1709­luglio 1711).
+ASVe, 1712­1764. Cinque Savi alla Mercanzia, Dispacci, Consoli, Patrasso, b. 728.
+ASVe, 1714a, b. Senato, Dispacci, Provveditori da Terra e da Mar, Provveditori Generali da Mar: a) f.
+958 (dicembre 1713­settembre 1714); b) f. 959 (luglio 1714­giugno 1715).
+2/19/14
+RHISE Vol. 2 - Albini et al., Material for the investigation of the seismicity of the Ionian Islands between 1704 and 1766
+emidius.mi.ingv.it/RHISE/ii_2alb/ii_2alb.html
+11/13
+ASVe, 1722­1723. Senato, Dispacci, Rettori, Zante, f. 29 (5 settembre 1715­15 settembre 1740).
+ASVe, 1722. Senato, Dispacci, Provveditori da Terra e da Mar, Provveditori Generali da Mar, f. 967 (1
+agosto 1722­8 luglio 1723).
+ASVe, 1723a. Senato, Dispacci, Provveditori da Terra e da Mar, Provveditori Generali da Mar, f. 988
+(maggio 1742­ottobre 1743): a) Terminazione del Provveditore Generale da Mar, Zante, 24 settembre.
+ASVe, 1723b, c. Senato, Dispacci, Provveditori da Terra e da Mar, Provveditori Generali da Mar, f. 967
+(1 agosto 1722­8 luglio 1723): b) Dispaccio n. 77, Provveditore Generale da Mar, Corf, 26 marzo; c)
+Dispaccio n. 83, Provveditore Generale da Mar, Corf, 20 aprile.
+ASVe, 1724a, b, c. Senato, Dispacci, Provveditori da Terra e da Mar, Provveditori Generali da Mar, f.
+988 (maggio 1742­ottobre 1743): a) Fede giurata, [Zante], 21 giugno; b) Fede giurata, [Zante], 21
+giugno; c) Estratto di decreto del Senato al Provveditore Generale da Mar, Venezia, 25 novembre.
+ASVe, 1728­1794. Cinque Savi alla Mercanzia, Dispacci, Consoli, Arta, b. 632.
+A
+SVe, 1729a, b. Senato, Dispacci, Rettori, Zante, f. 29 (5 settembre 1715­15 settembre 1740): a) Lettera,
+Provveditore di Zante, Zante, 9 luglio; b) Lettera, Provveditore di Zante, Zante, 4 settembre.
+ASVe, 1729c, d, e. Senato, Dispacci, Provveditori da Terra e da Mar, Provveditori Generali da Mar, f.
+973 (luglio 1729­agosto 1730): c) Dispaccio n. 64, Provveditore Generale da Mar, Corf, 28 luglio; d)
+Dispaccio n. 65, Provveditore Generale da Mar, Zante, 20 agosto; e) Perizia, Zante, 21 agosto.
+ASVe, 1730. Senato, Relazioni, Zante, b. 87 (1592­1771): Relazione, Provveditore di Zante, Venezia, 28
+giugno.
+ASVe, 1740. Senato, Dispacci, Provveditori da Terra e da Mar, Provveditori Generali da Mar, f. 987
+(luglio 1740­aprile 1742): Supplica, Zante, 8 ottobre.
+ASVe, 1741a, b. Senato, Dispacci, Provveditori da Terra e da Mar, Provveditori Generali da Mar, f. 987
+(luglio 1740­aprile 1742): a) Dispaccio n. 49, Provveditore Generale da Mar, Zante, 10 ottobre; b) Nota
+spese delle Piazze del Levante per l'anno 1741, Corf, 12 dicembre.
+ASVe, 1742a, b, c, d. Senato, Dispacci, Provveditori da Terra e da Mar, Provveditori Generali da Mar, f.
+987 (luglio 1740­aprile 1742): a) Supplica dei Sindici di Zante, Zante, 26 febbraio 1742; b) Lettera,
+Provveditore di Zante, Zante, 27 febbraio; c) Perizia, Zante, 26 febbraio; d) Dispaccio n. 60,
+Provveditore Generale da Mar, Corf, 15 marzo.
+ASVe, 1742e. Senato, Dispacci, Zante, f. 28 (1741­1753): Dispaccio, Provveditore di Zante, Zante, 27
+febbraio.
+ASVe, 1742f, g, h. Senato, Dispacci, Provveditori da Terra e da Mar, Provveditori Generali da Mar, f. 988
+(maggio 1742­ottobre 1743): f) Dispaccio n. 84, Provveditore Generale da Mar, Zante, 30 settembre; g)
+Dispaccio n. 86; Provveditore Generale da Mar, Zante, 17 ottobre; h) Dispaccio n. 89,
+Provveditore Generale da Mar, Cefalonia, 25 novembre.
+ASVe, 1742i. Senato, Decreti, Rettori, f. 260 (marzo­giugno 1742): Decreto al Provveditore di Zante,
+Venezia, 21 aprile.
+ASVe, 1743. Senato, Dispacci, Provveditori da Terra e da Mar, Provveditori Generali da Mar, f. 988
+(maggio 1742­ottobre 1743): Dispaccio n. 107, Provveditore Generale da Mar, Corf, 8 giugno.
+ASVe, 1759a, b, c. Senato, Dispacci, Provveditori da Terra e da Mar, Provveditori Generali da Mar, f.
+1002 (luglio 1759­maggio 1760): a) Lettera, Provveditore di Cefalonia, [Cefalonia] 20 giugno 1759; b)
+Supplica di 41 abitanti di Palichi [Palichi giugno 1759]; c) Dispaccio n. 61, Provveditore Generale da
+Mar, Cefalonia, 12 settembre.
+ASVe, 1766a, b, c, d, e, f. Senato, Dispacci, Provveditori da Terra e da Mar, Provveditori Generali da
+Mar, f. 1012 (aprile 1766­febbraio 1767): a) Dispaccio n. 86, Provveditore Generale da Mar, Corf 20
+giugno; b) Dispaccio n. 97, Provveditore Generale da Mar, Corf 20 novembre; c) Supplica dei
+Sindici di Cefalonia, [Cefalonia, settembre]; d) Polizza spese per il restauro della chiesa latina di
+Argostoli, Cefalonia, 4 settembre; e) Lettera, Provveditore di Asso, [Asso], 25 agosto; f) Fabbisogno per il
+restauro del palazzo pubblico di Asso, Asso Fortezza, 25 agosto.
+2/19/14
+RHISE Vol. 2 - Albini et al., Material for the investigation of the seismicity of the Ionian Islands between 1704 and 1766
+emidius.mi.ingv.it/RHISE/ii_2alb/ii_2alb.html
+12/13
+ASVe, 1766g. Collegio, Risposte di fuori, f. 512 (marzo 1766­febbraio 1767): Risposta alla supplica di
+Niccolò Salamon, Venezia, 12 dicembre .
+Baglivi, G., 1710. Opera omnia medico­pratica et anatomica. Lyon.
+Barbiani, D.G., 1863. Mémoires sur les tremblements de terre dans l'ile de Zante. Mémoires de l'Académie
+des Sciences de Dijon, Dijon, pp. 1­112.
+Chandler, 1776. Travels in Greece. Oxford.
+Chiotis, P., 1849. Historika apomnimonevmata tis nisou Zakinthou. 1, Govt. Print. Office, Kerkyra.
+Chiotis, P., 1863. Seira historikon apomnimoneumatyon. 3, Govt. Print. Office. Kerkyra.
+Daltri, A. e Albini, P., 1991. L'Archivio di Stato di Venezia: studio sulla potenzialit della documentazione
+ivi depositata ai fini delle ricerche sui terremoti europei di interesse per il Progetto CEE "RHISE".
+Progress Report, 120 pp.
+Dudan, B., 1938. Il dominio veneziano di Levante. Bologna.
+ENEL, 1986. Studi e indagini per l'accertamento della idoneit tecnica delle aree suscettibili di
+insediamento di impianti nucleari. Regione Puglia, Area costiera ionica. Indagini di sismicit storica.
+Rapporto finale. Il terremoto del 20 febbraio 1743 [restricted]. 
+Gaceta de Madrid, 1705. 3 de Maro, n. 3.
+Gazette de France, 1766. 19 December.
+Guêze, R., 1970. Note sugli Archivi di Stato della Grecia. Roma.
+Guidoboni, E., Ferrari G. e Margottini, C., 1989. na chiave di lettura per la sismicit antica: la ricerca
+dei "gemelli" del terremoto del 365 d.C. In: E. Guidoboni (Editor), I terremoti prima del Mille in Italia e
+nell'area mediterrranea. Storia Archeologia Sismologia. Bologna, pp. 552­573.
+Issel, A. e Agamennone, G., 1893. Cronistoria sismica di Zante. Annali dell'fficio Centrale di
+Meteorologia e Geodinamica, XV, I.
+Kouskouna, V., Makropoulos, K.C., Tsiknakis, K., 1993. Contribution of historical information to a
+realistic seismicity and hazard assessment of an area. The Ionian Islands earthquakes of 1767 and 1769:
+historical investigation. In: M. Stucchi (Editor), Materials of the CEC project "Review of
+Historical Seismicity in Europe", 1, Milano, pp. 195­206.
+Lunzi, E., 1858. Della condizione politica delle Isole Ionie sotto il dominio veneto. Venezia.
+Machairas, K., 1951. I Lefkas epi enetokratias,1684­1797. Athens.
+Margottini, C., 1985. The earthquake of February 20, 1743 in the Ionian Sea. In: D. Postpischl
+(Editor), Atlas of isoseismal maps of Italian earthquakes. uad. Ric. Scient. 114, 2A, Bologna, pp. 62­63.
+Mercati, P., 1811. Saggio storico statistico della citt et isola di Zante. Zante.
+Michael, XVIII. Historia Epiri a Michaele nepote duce conscripta. In: B.G. Niebuhr (Editor), CSHB, Bonn
+1849.
+Papazachos, B. and Papazachos, K., 1989. Oi seismoi tis Elladas. Thessaloniki.
+Partsch, J., 1887. Die Insel Korfu. Gotha.
+Sathas, C.N., 1867. Mesaionikon seismologion tis Hellados; Cephalinia kai Leukas. Aion, 2225.1245,
+Athens.
+Schmidt, J.F.J., 1875. Studien ber Erdbeben. Leipzig.
+Shebalin, N.V., Karnik, V. and Hadzievski D. (Editors), 1974. Catalogue of earthquakes.
+NDPNESCO Survey of the seismicity of the Balkan Region. Skopje.
+Theatrum Europaeum, 1714. Frankfurt.
+Tsiknakis, K., Makropoulos, K.C. and Kouskouna, V., 1992. Review of the Ionian Islands historical
+seismicity. The Leukada earthquake of October 1st 1769. In: A. Roca and D. Mayer­Rosa (Editors), Proc.
+XXII ESC General Assembly and activity report 1988­1990, Barcelona, 17­22 September 1990, I, pp. 311­
+316.
+Tsitselis, H., 1904. Kefalliniaka symmikta. Argostoli.
+Vergotis, P., 1867. Kefallinia. Kefallinia.
+2/19/14
+RHISE Vol. 2 - Albini et al., Material for the investigation of the seismicity of the Ionian Islands between 1704 and 1766
+emidius.mi.ingv.it/RHISE/ii_2alb/ii_2alb.html
+13/13
+Viggiano, A., 1993. Venezia e le isole del Levante. Cultura politicae incombenze amministrative nel
+Dominio da Mar del XVIII secolo. Atti dell'Istituto Veneto di Scienze Lettere ed Arti, CLI: 753­795.
+Vladis, S., 1902. I Leukas; historikon dokimion. Leukas.
+VVA (Vivliothiki Voulis Athinon, Athens), cod. 128.6.53.
+Zois, L., 1893. Oi en Zakintho seismoi. Ai Mousai, 11, Zante.
+op
+ol.1
+ 
+ol.2
+ 
+Deliverables and ueries
+ 
+Presentation
+ 
+omepage
