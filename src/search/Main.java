@@ -9,6 +9,8 @@ import com.itextpdf.text.pdf.PRTokeniser;
 import com.itextpdf.text.pdf.PdfReader;
 import com.itextpdf.text.pdf.RandomAccessFileOrArray;
 
+import extract.CitationsCollector;
+
 public class Main {
     
 	private static String INPUTFILE = "test1.pdf";
@@ -47,7 +49,7 @@ public class Main {
 //		LightASVeDetector detector = new LightASVeDetector(INPUTFILE);
 //		detector.detectASVe();
 		CitationsCollector cc = new CitationsCollector(INPUTFILE5);
-		cc.detectASVe();
+		cc.collectASVe();
 	}
 	
 	
