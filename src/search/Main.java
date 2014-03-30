@@ -14,6 +14,10 @@ public class Main {
 	private static String INPUTFILE = "test1.pdf";
 	private static String INPUTFILE2 = "/home/silvia/Documents/DH-project/BooksWithCitations/Delorenzi_955425_tesi.pdf.pdf";
 	private static String INPUTFILE3 = "/home/silvia/Documents/DH-project/BooksWithCitations/collectionFromStoriadivenezia/barbierato_immaginarsilaguerra.pdf";
+	private static String INPUTFILE4 = "/home/silvia/Documents/DH-project/BooksWithCitations/"
+				+ "RHISE Vol. 2 - Albini et al.pdf";
+	private static String INPUTFILE5 = "/home/silvia/Dropbox/DH-project/DocsWithCitations/docsGiovanni/"
+				+ "111-Mueller.pdf";
 	private static String OUTPUTFILE = "Text1.txt";
 	private static String OUTPUTFILE2 = "Text2.txt";
 	
@@ -40,8 +44,10 @@ public class Main {
 	public static void main(String[] args)
 	{
 //		Main.testPdfReader2();
-		CitationsDetector detector = new CitationsDetector(INPUTFILE);
-		detector.detectASVe();
+//		LightASVeDetector detector = new LightASVeDetector(INPUTFILE);
+//		detector.detectASVe();
+		CitationsCollector cc = new CitationsCollector(INPUTFILE5);
+		cc.detectASVe();
 	}
 	
 	
