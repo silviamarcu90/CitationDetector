@@ -10,6 +10,8 @@ import search.PdfReaderHelper;
 
 public class CitationsCollector {
 	private String bookName;
+	private final static String CITATIONS_FILE =
+			"/home/silvia/Dropbox/DH-project/DocsWithCitations/ExtractedCitations.txt";
 	
 	public CitationsCollector(String filename)
 	{
@@ -41,16 +43,19 @@ public class CitationsCollector {
     	// TO MATCH: 
 //    	message = "ASVe, 1766g. Collegio, Risposte di fuori, cc. 512-456 rtj";
 	//??! NOT MATCHED  in the text-- "ASVe (Archivio di Stato di Venezia), 1693­1722. Cinque Savi alla Mercanzia, Lettere, Rettori, Cefalonia,    	b. 561";
-    	Pattern p = Pattern.compile("(ASV[e]?(.\\(Archivio.di.Stato.di.Venezia\\))?,.+([fbcn]|(bb)|(cc))\\..[\\d-]+)");
-//	    			"(ASV[e]?,[^(,\\)\\()]*,[^,]*,[^,]*,[^,]*,)");
-//	    			+ " [a-zA-Z]\\. [\\d]+[^.]*.");
-    	if(totalNumberOfPages > 20)
-    		totalNumberOfPages = 20;
+    
+    	Pattern p = Pattern.compile
+    			("(ASV[e]?(.\\(Archivio.di.Stato.di.Venezia\\))?,.+([fbcn]|(bb)|(cc))\\..[\\d-]+)");
+    			//filza|busta -- full words not included
+    	
+//    	if(totalNumberOfPages > 20)
+//    		totalNumberOfPages = 20;
 		int lenBookPath = bookName.length();
 		String outputFile = bookName.substring(0, lenBookPath - 3) + "txt";
-		BufferedWriter out = null;
+		BufferedWriter out = null, outAppend = null;
 		try {
 			out = new BufferedWriter(new FileWriter(outputFile));
+			outAppend = new BufferedWriter(new FileWriter(CITATIONS_FILE, true));
 		} catch (IOException e1) {
 			System.err.println("Error while opening a file for writing");
 			e1.printStackTrace();
@@ -75,6 +80,7 @@ public class CitationsCollector {
 				System.out.println("<<" + result + ">>");
 				try {
 					out.write(result + "\n");
+					outAppend.write(result + "\n");
 				} catch (IOException e) {
 					System.err.println("Error while writing");
 					e.printStackTrace();
@@ -84,6 +90,7 @@ public class CitationsCollector {
     	
     	try {
 			out.close();
+			outAppend.close();
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
