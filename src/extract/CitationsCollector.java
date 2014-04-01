@@ -37,19 +37,18 @@ public class CitationsCollector {
 			"menzionato – senza indicazioni sull‟autore – nell‟inventario dei beni (1648) di suo" + 
 			"nipote Vincenzo Cappello (ASV, Notarile Atti, notaio Claudio Paulini, b. 3457," +
 			"protocollo 1648, III, cc. 1133r-1164v),";
-//"ASVe, 1704a, b. Senato, Dispacci, Provveditori da Terra e da Mar, Provveditori Generali da Mar, f. 951 (luglio 1702­luglio 1705): a) Dispaccio n. 85," +
-//" Provveditore Generale da Mar, Corfù, 6 dicembre; b)Disegno del fortino di Trapano [dicembre 1704].";
 	    	
     	// TO MATCH: 
 //    	message = "ASVe, 1766g. Collegio, Risposte di fuori, cc. 512-456 rtj";
 	//??! NOT MATCHED  in the text-- "ASVe (Archivio di Stato di Venezia), 1693­1722. Cinque Savi alla Mercanzia, Lettere, Rettori, Cefalonia,    	b. 561";
     
     	Pattern p = Pattern.compile
-    			("(ASV[e]?(.\\(Archivio.di.Stato.di.Venezia\\))?,.+([fbcn]|(bb)|(cc))\\..[\\d-]+)");
-    			//filza|busta -- full words not included
+    			("(A[\\.]?S[\\.]?V[\\.]?[e]?(.(\\()?Archivio.di.Stato.di.Venezia(\\))?)?,.+((([fbcn]|(bb)|(cc))\\.)|(filza)|(busta)).(.|(\\r?\\n))?[\\d-]+)");
     	
+    	// to parse only 20 pages at most
 //    	if(totalNumberOfPages > 20)
 //    		totalNumberOfPages = 20;
+    	
 		int lenBookPath = bookName.length();
 		String outputFile = bookName.substring(0, lenBookPath - 3) + "txt";
 		BufferedWriter out = null, outAppend = null;
@@ -66,7 +65,7 @@ public class CitationsCollector {
     		//get text of page with number pageNb
     		try {
     			text = reader.getPageText(pageNb);
-//	    	    	System.out.println("Text on page " + pageNb + ": " + text);
+//    	    	System.out.println("Text on page " + pageNb + ": " + text);
     		} catch (IOException e) {
     			System.err.println("PdfReader error!!");
     			e.printStackTrace();
@@ -76,7 +75,7 @@ public class CitationsCollector {
 					text);
 
 			while(matcher.find()) {
-				String result = matcher.group(); //!! consider length to avoid long wrong citation inside the text
+				String result = matcher.group();
 				System.out.println("<<" + result + ">>");
 				try {
 					out.write(result + "\n");

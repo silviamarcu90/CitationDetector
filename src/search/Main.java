@@ -12,6 +12,7 @@ import com.itextpdf.text.pdf.PRTokeniser;
 import com.itextpdf.text.pdf.PdfReader;
 import com.itextpdf.text.pdf.RandomAccessFileOrArray;
 
+import extract.CategorizerByInstitution;
 import extract.CitationsCollector;
 import extract.DirFilesHandler;
 
@@ -20,12 +21,14 @@ public class Main {
 	private static String INPUTFILE = "test1.pdf";
 	private static String INPUTFILE2 = "/home/silvia/Documents/DH-project/BooksWithCitations/Delorenzi_955425_tesi.pdf.pdf";
 	private static String INPUTFILE3 = "/home/silvia/Documents/DH-project/BooksWithCitations/collectionFromStoriadivenezia/barbierato_immaginarsilaguerra.pdf";
-	private static String INPUTFILE4 = "/home/silvia/Documents/DH-project/BooksWithCitations/"
+	private static String INPUTFILE4 = "/home/silvia/Dropbox/DH-project/DocsWithCitations/GeneDocuments/"
 				+ "RHISE Vol. 2 - Albini et al.pdf";
-	private static String INPUTFILE5 = "/home/silvia/Dropbox/DH-project/DocsWithCitations/docsGiovanni/"
+	private static String INPUTFILE5 = "/home/silvia/Dropbox/DH-project/DocsWithCitations/collectionFromStoriadivenezia/" 
+//			+"docsGiovanni/"
 //				+ "111-Mueller.pdf";
 //			+ "NIS2013.pdf";
-			+ "Sclosa_955397_tesi.pdf.pdf";
+//			+ "Sclosa_955397_tesi.pdf.pdf";
+			+ "infelise_imprimatur.pdf";
 	private static String OUTPUTFILE = "Text1.txt";
 	private static String OUTPUTFILE2 = "Text2.txt";
 	
@@ -50,32 +53,43 @@ public class Main {
 	}
 	
 	public static void collectCitationsFromFiles(ArrayList<String> allFiles) {
+		int nbFilesWithASVeCitations = 0;
 		for(String inputfile : allFiles) {
 			Classifier classifier = new Classifier(inputfile);
 			if( classifier.detectASVe() ) //has citations
-			{	
+			{
+				nbFilesWithASVeCitations ++;
 				CitationsCollector cc = new CitationsCollector(inputfile);
 				cc.collectASVe();
 			}
 			System.out.println("_________________________________________________________");
 		}
+		System.out.println("Number of docs with citations " + nbFilesWithASVeCitations);
+	}
+	
+	public static void testCategorizer() {
+		CategorizerByInstitution categorizer = new CategorizerByInstitution();
+		
+		categorizer.categorizeCitationsFromFile();
 	}
 	
 	public static void main(String[] args)
 	{
 //		Main.testPdfReader2();
-//		LightASVeDetector detector = new LightASVeDetector(INPUTFILE);
+//		LightASVeDetector detector = new LightASVeDetector(INPUTFILE4);
 //		detector.detectASVe();
 		
-//		CitationsCollector cc = new CitationsCollector(INPUTFILE5);
+//		CitationsCollector cc = new CitationsCollector(INPUTFILE4);
 //		cc.collectASVe();
 
-		DirFilesHandler handler = new DirFilesHandler();
-		ArrayList<String> allFiles = handler.getAllFiles();
+//		DirFilesHandler handler = new DirFilesHandler();
+//		ArrayList<String> allFiles = handler.getAllFiles();
 //		System.out.println(allFiles.size());
+
 //		for(String f : allFiles)
 //			System.out.println(f);
-		Main.collectCitationsFromFiles(allFiles);
+//		Main.collectCitationsFromFiles(allFiles);
+		Main.testCategorizer();
 	}
 	
 	

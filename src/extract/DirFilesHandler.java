@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 public class DirFilesHandler {
 
-	private String dirPath = "/home/silvia/Dropbox/DH-project/DocsWithCitations";
+	private String dirPath = "/home/silvia/Dropbox/DH-project/DocsWithCitations/";
 	private ArrayList<String> allFiles = new ArrayList<String>();
 	
 	private void listFilesForFolder(File folder) {
@@ -21,7 +21,8 @@ public class DirFilesHandler {
 	    			  	  temp.length()).toLowerCase()).equals("pdf"))
 	    		    {
 	    		    	allFiles.add(folder.getAbsolutePath()+ "/" + fileEntry.getName());
-//    			  	  	System.out.println("File= " + folder.getAbsolutePath()+ "/" + fileEntry.getName());
+    			  	  	System.out.println(folder.getAbsolutePath()+ "/" + 
+	    		    	fileEntry.getName());
 	    		    }
 	          }
 	       }
