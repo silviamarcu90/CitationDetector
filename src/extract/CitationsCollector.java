@@ -11,7 +11,7 @@ import search.PdfReaderHelper;
 public class CitationsCollector {
 	private String bookName;
 	private final static String CITATIONS_FILE =
-			"/home/silvia/Dropbox/DH-project/DocsWithCitations/ExtractedCitations.txt";
+			"/home/silvia/Dropbox/DH-project/DocsWithCitations/ExtractedCitations26April.txt";
 	
 	public CitationsCollector(String filename)
 	{
@@ -43,7 +43,7 @@ public class CitationsCollector {
 	//??! NOT MATCHED  in the text-- "ASVe (Archivio di Stato di Venezia), 1693­1722. Cinque Savi alla Mercanzia, Lettere, Rettori, Cefalonia,    	b. 561";
     
     	Pattern p = Pattern.compile
-    			("(A[\\.]?S[\\.]?V[\\.]?[e]?(.(\\()?Archivio.di.Stato.di.Venezia(\\))?)?,.+((([fbcn]|(bb)|(cc))\\.)|(filza)|(busta)).(.|(\\r?\\n))?[\\d-]+)");
+    			("(A[\\.]?S[\\.]?V[\\.]?[e]?(.(\\()?Archivio.di.Stato.di.Venezia(\\))?)?,.+ ((((([fbcnp]|(bb)|(cc)|(reg))\\.)|(filza)|(busta)).(.|(\\r?\\n))?[\\d-]+)) )");
     	
     	// to parse only 20 pages at most
 //    	if(totalNumberOfPages > 20)

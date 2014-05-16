@@ -23,12 +23,13 @@ public class Main {
 	private static String INPUTFILE3 = "/home/silvia/Documents/DH-project/BooksWithCitations/collectionFromStoriadivenezia/barbierato_immaginarsilaguerra.pdf";
 	private static String INPUTFILE4 = "/home/silvia/Dropbox/DH-project/DocsWithCitations/GeneDocuments/"
 				+ "RHISE Vol. 2 - Albini et al.pdf";
-	private static String INPUTFILE5 = "/home/silvia/Dropbox/DH-project/DocsWithCitations/collectionFromStoriadivenezia/" 
+	private static String INPUTFILE5 = "/home/silvia/Dropbox/DH-project/DocsWithCitations/collectionFromStoriadivenezia/deltorre_vescovadi.pdf";
+			//"/home/silvia/Dropbox/DH-project/DocsWithCitations/collectionFromStoriadivenezia/" 
 //			+"docsGiovanni/"
 //				+ "111-Mueller.pdf";
 //			+ "NIS2013.pdf";
 //			+ "Sclosa_955397_tesi.pdf.pdf";
-			+ "infelise_imprimatur.pdf";
+//			+ "infelise_imprimatur.pdf";
 	private static String OUTPUTFILE = "Text1.txt";
 	private static String OUTPUTFILE2 = "Text2.txt";
 	
@@ -55,13 +56,13 @@ public class Main {
 	public static void collectCitationsFromFiles(ArrayList<String> allFiles) {
 		int nbFilesWithASVeCitations = 0;
 		for(String inputfile : allFiles) {
-			Classifier classifier = new Classifier(inputfile);
-			if( classifier.detectASVe() ) //has citations
-			{
-				nbFilesWithASVeCitations ++;
-				CitationsCollector cc = new CitationsCollector(inputfile);
-				cc.collectASVe();
-			}
+//			Classifier classifier = new Classifier(inputfile); //no need to use the classifier
+//			if( classifier.detectASVe() ) //has citations
+//			{
+			nbFilesWithASVeCitations ++;
+			CitationsCollector cc = new CitationsCollector(inputfile);
+			cc.collectASVe();
+//			}
 			System.out.println("_________________________________________________________");
 		}
 		System.out.println("Number of docs with citations " + nbFilesWithASVeCitations);
@@ -79,17 +80,17 @@ public class Main {
 //		LightASVeDetector detector = new LightASVeDetector(INPUTFILE4);
 //		detector.detectASVe();
 		
-//		CitationsCollector cc = new CitationsCollector(INPUTFILE4);
+//		CitationsCollector cc = new CitationsCollector(INPUTFILE5);
 //		cc.collectASVe();
 
-//		DirFilesHandler handler = new DirFilesHandler();
-//		ArrayList<String> allFiles = handler.getAllFiles();
-//		System.out.println(allFiles.size());
+		DirFilesHandler handler = new DirFilesHandler();
+		ArrayList<String> allFiles = handler.getAllFiles();
+		System.out.println(allFiles.size());
 
 //		for(String f : allFiles)
 //			System.out.println(f);
 //		Main.collectCitationsFromFiles(allFiles);
-		Main.testCategorizer();
+//		Main.testCategorizer();
 	}
 	
 	
